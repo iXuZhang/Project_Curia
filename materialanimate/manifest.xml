@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+	<name>Material Design Animation</name>
+	<author>Naol Sileshi</author>
+	<version>1.0</version>
+	<id>materialanimate</id>
+	<description>The Perfect Match for the Material Design Theme. It animates the Cards based on the AniJS Library!</description>
+	<website>http://www.callmeair.com</website>
+	<copyright>Licensed to Naol Sileshi</copyright>
+	<license>GNU Public License Version 2</license>
+ 	
+ 	<requires>
+		<type>elgg_release</type>
+		<version>1.9</version>
+	</requires>
+	<requires>
+		<type>plugin</type>
+		<name>material_design</name>
+		<version>1.0</version>
+	</requires>
+ 	<category>Theme Extensions</category>
+</plugin_manifest>
